@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9096f6ef-edde-4632-91ea-613f98abeb11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/participant/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/participant/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/participant/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/participant/Obstacle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/participant/Participant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/participant/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/participant/Treadmill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/participant/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shape/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shape/Triangle.java" afterDir="false" />
-    </list>
+    <list default="true" id="9096f6ef-edde-4632-91ea-613f98abeb11" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

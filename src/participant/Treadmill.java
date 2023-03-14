@@ -1,16 +1,19 @@
 package participant;
 
-public class Treadmill implements Obstacle{
+public class Treadmill implements Obstacle {
     private String name;
     private int length;
-    public Treadmill(String name, int length) {
+
+    public Treadmill (String name, int length) {
         this.name = name;
         this.length = length;
     }
-    public String getName() {
+
+    public String getName () {
         return name;
     }
-    public int getDifficulty() {
+
+    public int getDifficulty () {
         return length;
     }
 }
