@@ -1,14 +1,14 @@
 package shape;
 
-public class Square implements Shape {
+public class Square implements Shape{
     private double side;
 
-    public Square(double side) {
+    public Square ( double side ) {
         this.side = side;
     }
 
     @Override
-    public double getArea() {
+    public double getArea () {
         return side * side;
     }
 }
